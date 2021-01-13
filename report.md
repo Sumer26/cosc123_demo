@@ -6,7 +6,8 @@ This is just a random text in the body
 
 **hello** hello
 
-- item
+*hello* hello
+
 - item 2 
 1. items 
 2. items 3
@@ -19,5 +20,7 @@ this is a break
 
 lists of lists
 - hello
+
   -hel
+  
   -hell
